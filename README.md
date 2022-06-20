@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @megadoze
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning JavaScript
 - 📫 megadoze33@gmail.com
 
 <!---
